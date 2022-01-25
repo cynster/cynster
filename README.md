@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on my Codaisseur training.
-🌱 Learning about Git, Javascript, React and Redux etc.
+🌱 Learning about Git, Javascript, React and Redux.
 
 <!--
 **cynster/cynster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
